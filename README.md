@@ -29,13 +29,7 @@ decision.
 - **Local embeddings** by default (`all-MiniLM-L6-v2`) — free, runs on your machine.
 - **Persistent vector store** (ChromaDB) so indexed news survives restarts.
 
-## Screenshots
 
-> Add your own screenshots under `docs/` and they'll show up here.
-
-| Brief | Ask |
-|-------|-----|
-| ![Brief view](docs/brief.png) | ![Ask view](docs/ask.png) |
 
 ---
 
